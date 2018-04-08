@@ -1,10 +1,10 @@
 # Dogs vs. Cats
-----
+
 ## Source code list
 * mlnd_capstone_dogs_vs_cats.ipynb
-- The main python code
+    The main python code
 * transfer_learning.py
-- Some auxiliary functions and classes used by mlnd_capstone_dogs_vs_cats.ipynb
+    Some auxiliary functions and classes used by mlnd_capstone_dogs_vs_cats.ipynb
 
 ## The main libraries used by the project
 * numpy
