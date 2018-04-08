@@ -14,6 +14,10 @@
 * matplotlib
 * keras
 * tensorflow
+* sklearn
+* tqdm
+* opencv-python
+* h5py
 
 ## The running time of all code
 About 3~4 hours
