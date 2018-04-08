@@ -4,6 +4,10 @@
 * **mlnd_capstone_dogs_vs_cats.ipynb**: the main python code
 * **transfer_learning.py**: some auxiliary functions and classes used by mlnd_capstone_dogs_vs_cats.ipynb
 
+## Report
+* **MLND_capstone_dogs_vs_cats_report.pdf**: the formal report of capstone project
+* **report.html**: the HTML file from mlnd_capstone_dogs_vs_cats.ipynb
+
 ## The main libraries used by the project
 * numpy
 * pandas
