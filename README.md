@@ -1,4 +1,4 @@
-# Dogs vs. Cats
+# Dogs vs. Cats(Machine Learning Nano Degree Capstone Project)
 
 ## Source code list
 * **mlnd_capstone_dogs_vs_cats.ipynb**: the main python code
@@ -20,7 +20,7 @@
 * h5py
 
 ## The running time of all code
-About 3~4 hours
+About 3 hours, on AWS p2.xlarge
 
 ## Notice
-Download the dataset from kaggle first: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
+Before running the notebook, download the dataset from kaggle first: [Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data)
