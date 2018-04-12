@@ -1,4 +1,4 @@
-# Dogs vs. Cats(Machine Learning Nano Degree Capstone Project)
+# Dogs vs. Cats (Machine Learning Capstone Project)
 
 ## Source code list
 * **mlnd_capstone_dogs_vs_cats.ipynb**: the main python code
